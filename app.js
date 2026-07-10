@@ -14,14 +14,14 @@
 
 // ---------------------------------
 
-// let name = "saman";
-// let age = 18;
-// let isAfterAL = false;
-// let customers = [];
-// let customer = {};
-// let salary = 7500.0;
+let name = "saman";
+let age = 18;
+let isAfterAL = false;
+let customers = [];
+let customer = {};
+let salary = 7500.0;
 
-// console.log(typeof name);
+console.log(typeof name);
 
 // --------------------------------------------
 //  arithmetic operators
