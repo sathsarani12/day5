@@ -1,11 +1,11 @@
-let name = "Saman";
+// let name = "Saman";
 
-let age = 18;
+// let age = 18;
 
-name = "ranil";
+// name = "ranil";
 
-console.log(name);
-console.log(age);
+// console.log(name);
+// console.log(age);
 
 // alert("Hello icet");
 
